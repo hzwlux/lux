@@ -1,3 +1,3 @@
 function FindProxyForURL(url, host) {
-    return "国外网站 127.0.0.1:7890"; 
+    return "HTTP 127.0.0.1:7890"; 
    } 
